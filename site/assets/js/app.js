@@ -1,6 +1,6 @@
 const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=[]{}|;:,.<>?/';
 const textEl = document.getElementById('status-text');
-const originalText = 'COMING SOON';
+const originalText = 'ketika tidak ada tangan yang terulur disaat kamu jatuh setidaknya kamu masih punya kaki untuk kembali berdiri';
 
 function createEncryptEffect() {
   textEl.innerHTML = '';
